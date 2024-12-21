@@ -1,5 +1,5 @@
 config ZMK_KEYBOARD_NAME
-    default "gigapad"
+    default "MIGHTYMOUSE2"
 
 config SPI
 	default y
