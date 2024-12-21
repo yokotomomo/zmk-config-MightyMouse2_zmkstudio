@@ -76,8 +76,8 @@
                 &mkp RCLK
                 &mo 1
                 //NFC
-                &mkp MB4
                 &mkp MB5
+                &mkp MB4
             >;
 
         };
