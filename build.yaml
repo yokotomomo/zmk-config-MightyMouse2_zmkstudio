@@ -19,4 +19,4 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: MIGHTYMOUSE2 rgbled_adapter
+    shield: MightyMouse2 rgbled_adapter
