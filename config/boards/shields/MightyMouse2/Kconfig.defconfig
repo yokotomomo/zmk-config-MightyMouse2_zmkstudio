@@ -1,5 +1,5 @@
 config ZMK_KEYBOARD_NAME
-    default "MIGHTYMOUSE2"
+    default "MightyMouse2"
 
 config SPI
 	default y
