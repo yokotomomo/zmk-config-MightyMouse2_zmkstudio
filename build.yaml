@@ -20,3 +20,4 @@
 include:
   - board: seeeduino_xiao_ble
     shield: MightyMouse2 rgbled_adapter
+    snippet: studio-rpc-usb-uart
